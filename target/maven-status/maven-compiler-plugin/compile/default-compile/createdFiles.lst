@@ -1,0 +1,4 @@
+com/hejcl/app/rest/RestApiApplication.class
+com/hejcl/app/rest/model/repository/AuthorRepository.class
+com/hejcl/app/rest/controller/ApiController.class
+com/hejcl/app/rest/model/entity/Author.class
